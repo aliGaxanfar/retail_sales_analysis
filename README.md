@@ -27,3 +27,27 @@ checked shape, data types and missing values
 
 - ### Visualization 
 Line chart, Bar chart, Pie Chart, and a correlation Heatmap
+
+
+## How to Run?
+** 1. Clone the repo **
+```bash
+
+git clone https://github.com/<your-username>/<repo-name>.git
+
+```
+**2. Create a virtual environment to keep everything clean**
+```bash
+python -m venv venv
+source venv/bin/activate   
+
+```
+** 3. Install required dependencies **
+```bash
+
+pip install -r requirements.txt
+```
+** 4. Launch the notebook. **
+```bash
+jupter notebook mini-project_1.ipynb
+```
